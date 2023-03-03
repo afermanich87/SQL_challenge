@@ -6,8 +6,6 @@
 
 * Clone the new repository to your computer.
 
-* Inside your local Git repository, create a directory for this Challenge. Use a folder name that corresponds to the Challenge, such as EmployeeSQL.
-
 * Download the Module 9 Files
 
 
